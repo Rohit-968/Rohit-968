@@ -14,18 +14,18 @@
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?style=for-the-badge&logo=mysql&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Data-green?style=for-the-badge&logo=power-bi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Spreadsheet-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Dataframe-blue?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-red?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue?style=for-the-badge&logo=seaborn&logoColor=white)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" width="40" style="margin-right:5px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" width="40" style="margin-right:5px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" width="40" style="margin-right:5px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/c.svg" width="40" style="margin-right:5px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" width="40" style="margin-right:5px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/powerbi.svg" width="40" style="margin-right:5px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jupyter.svg" width="40" style="margin-right:5px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftexcel.svg" width="40" style="margin-right:5px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pandas.svg" width="40" style="margin-right:5px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/scikitlearn.svg" width="40" style="margin-right:5px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/matplotlib.svg" width="40" style="margin-right:5px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/seaborn.svg" width="40" style="margin-right:5px;"/>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
