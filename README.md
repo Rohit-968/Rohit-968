@@ -1,4 +1,4 @@
-##  Hi, I am **Rohit Vinod**! 
+##  Hi, **Rohit ** here!
 
 I work on **coding, data analysis, and visualization** using:
 
