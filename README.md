@@ -1,6 +1,7 @@
 ## 💻 Hi, I am **Rohit Vinod**! 
 
 I work on **coding, data analysis, and visualization** using:
+
 🔹Python
 🔹SQL
 🔹Jupyter Notebook
