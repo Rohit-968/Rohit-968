@@ -1,15 +1,16 @@
-## 💻 Hi, I am **Rohit Vinod**!  
-I work on **coding, data analysis, and visualization** using:
+## 💻 Hi, I am **Rohit Vinod**! 
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" height="30" style="margin-right:5px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" height="30" style="margin-right:5px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jupyter.svg" height="30" style="margin-right:5px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftexcel.svg" height="30" style="margin-right:5px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/power-bi.svg" height="30" style="margin-right:5px;" />
+I work on **coding, data analysis, and visualization** using:
+🔹Python
+🔹SQL
+🔹Jupyter Notebook
+🔹Power BI
+🔹Excel
+🔹Java
+🔹C++
+
 
 ✨ Passionate about turning data into insights and building efficient solutions.
-
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
