@@ -36,8 +36,9 @@
 ## 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/rohit-vinod-89466a381/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" height="40" style="margin-right:5px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" height="40" style="margin-right:5px; fill:#0A66C2;" />
 </a>
+
 
 
 
