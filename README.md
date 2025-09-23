@@ -6,9 +6,11 @@ I work on **coding, data analysis, and visualization** using:
 🔹SQL
 🔹Jupyter Notebook
 🔹Power BI
+
 🔹Excel
 🔹Java
 🔹C++
+🔹AI
 
 
 ### Passionate about turning data into insights and building efficient solutions.
@@ -47,7 +49,7 @@ I work on **coding, data analysis, and visualization** using:
 ##  Connect with me
 
 <a href="https://www.linkedin.com/in/rohit-vinod-89466a381/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Rohit-968/Rohit-968/main/assets/linkedin.png" alt="LinkedIn" width="40" />
+  <img src="https://raw.githubusercontent.com/Rohit-968/Rohit-968/main/assets/Linkedin_icon.svg" alt="LinkedIn" width="40" />
 </a>
 
 
