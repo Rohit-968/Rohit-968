@@ -3,15 +3,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📊 GitHub Stats
+##   GitHub Stats
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" style="vertical-align:middle;"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohit123&show_icons=true&theme=radical" width="400">
-
-
-![Rohit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit123&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-968&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-968&layout=compact&theme=radical)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
