@@ -47,7 +47,7 @@ I work on **coding, data analysis, and visualization** using:
 ##  Connect with me
 
 <a href="https://www.linkedin.com/in/rohit-vinod-89466a381/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/Rohit-968/Rohit-968/main/assets/linkedin.png" alt="LinkedIn" width="40" style="vertical-align:middle;" />
 </a>
 
 
