@@ -1,11 +1,20 @@
-## Hi there 👋
+## 💻 Hi, I am **Rohit Vinod**!  
+I work on **coding, data analysis, and visualization** using:
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" height="30" style="margin-right:5px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" height="30" style="margin-right:5px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jupyter.svg" height="30" style="margin-right:5px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftexcel.svg" height="30" style="margin-right:5px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/power-bi.svg" height="30" style="margin-right:5px;" />
+
+✨ Passionate about turning data into insights and building efficient solutions.
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-968&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-968&layout=compact&theme=radical)
 
