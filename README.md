@@ -3,9 +3,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##   GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-968&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-968&layout=compact&theme=radical)
 
 
@@ -26,14 +27,14 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-red?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue?style=for-the-badge&logo=seaborn&logoColor=white)
 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/rohit-vinod-89466a381/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="40" style="vertical-align:middle;"> 
-  LinkedIn
-</a>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" style="vertical-align:middle;"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Rohit-968&show_icons=true&theme=radical" width="400">
+
 
 
 
