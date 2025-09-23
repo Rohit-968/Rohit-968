@@ -35,8 +35,10 @@
 
 ## 📫 Connect with me
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" style="vertical-align:middle;"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohit-968&show_icons=true&theme=radical" width="400">
+<a href="https://www.linkedin.com/in/rohit-vinod-89466a381/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" height="40" style="margin-right:5px;" />
+</a>
+
 
 
 
