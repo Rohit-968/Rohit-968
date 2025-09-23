@@ -11,11 +11,11 @@ I work on **coding, data analysis, and visualization** using:
 🔹C++
 
 
-✨ Passionate about turning data into insights and building efficient solutions.
+### Passionate about turning data into insights and building efficient solutions.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-968&layout=compact&theme=radical)
@@ -23,7 +23,7 @@ I work on **coding, data analysis, and visualization** using:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="40" />
@@ -44,10 +44,10 @@ I work on **coding, data analysis, and visualization** using:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📫 Connect with me
+##  Connect with me
 
 <a href="https://www.linkedin.com/in/rohit-vinod-89466a381/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" height="40" style="margin-right:5px; fill:#0A66C2;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" height="40" />
 </a>
 
 
