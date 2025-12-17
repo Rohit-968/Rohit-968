@@ -2,12 +2,11 @@
 
 I work on **coding, data analysis, and visualization** using:
 
-🔹Python
+🔹Excel
 🔹SQL
-🔹Jupyter Notebook
 🔹Power BI
 
-🔹Excel
+🔹Python
 🔹Java
 🔹C++
 🔹AI
