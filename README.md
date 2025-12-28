@@ -19,7 +19,7 @@ I work on **coding, data analysis, and visualization** using:
 ##  GitHub Stats
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-968&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
