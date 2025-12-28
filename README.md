@@ -19,7 +19,8 @@ I work on **coding, data analysis, and visualization** using:
 ##  GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-968&show_icons=true&theme=default)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-968&show_icons=true)](https://github.com/Rohit-968)
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
