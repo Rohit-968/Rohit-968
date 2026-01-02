@@ -12,14 +12,7 @@ I work on **coding, data analysis, and visualization** using:
 🔹AI
 
 
-### Passionate about turning data into insights and building efficient solutions.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-##  GitHub Stats
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-968&show_icons=true)](https://github.com/Rohit-968)
+### Passionate about turning data into insights and building efficient solutions
 
 
 
