@@ -9,7 +9,7 @@ I work on **coding, data analysis, and visualization** using:
 🔹Python
 🔹Java
 🔹C++
-🔹AI
+🔹Spark
 
 
 ### Passionate about turning data into insights and building efficient solutions
@@ -33,6 +33,7 @@ I work on **coding, data analysis, and visualization** using:
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/-Seaborn-3E6B9C?style=for-the-badge&logo=seaborn&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-Spark-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="40" />
 </div>
 
 
