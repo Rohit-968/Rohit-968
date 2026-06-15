@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?
-
-customColorList=0,2,2&color=0:0D1B2A,100:1B263B
-https://capsulerender.vercel.app/apitype=waving&color=gradient&customColorList=0,2,2&height=180&section=header&text=Rohit%20Vinod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%E2%80%A2%20ML%20Practitioner%20%E2%80%A2%20Big%20Data%20Analyst&descAlignY=52&descSize=16
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=180&section=header&text=Rohit%20Vinod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%E2%80%A2%20ML%20Practitioner%20%E2%80%A2%20Big%20Data%20Analyst&descAlignY=52&descSize=16"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -156,7 +153,6 @@ Full EDA pipeline on millions of grocery orders — segments customers into loya
 <div align="center">
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=120&section=footer"/>
 
 </div>
