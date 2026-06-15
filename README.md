@@ -159,14 +159,6 @@ Full EDA pipeline on millions of grocery orders — segments customers into loya
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rohit-968&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
----
-
 ## 🎯 What I'm Working On
 
 - 🔭 Scaling the HealthcareCost Lens pipeline to multi-year CMS cohorts (2018–2023)
