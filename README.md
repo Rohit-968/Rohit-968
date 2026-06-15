@@ -27,7 +27,6 @@ rohit = {
     "focus"       : ["Big Data Pipelines", "Predictive Modeling", "Visual Analytics"],
     "tools"       : ["Apache Spark", "Hadoop", "Python", "SQL", "Power BI", "Streamlit"],
     "currently"   : "Building distributed systems that turn 9.8M+ records into decisions",
-    "philosophy"  : "Data only has value when it changes a decision."
 }
 ```
 
@@ -156,8 +155,5 @@ Full EDA pipeline on millions of grocery orders — segments customers into loya
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-**"Data only has value when it changes a decision."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rohit-968&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
